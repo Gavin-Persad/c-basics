@@ -12,3 +12,4 @@ C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\r
 C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.pdb
 C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.genruntimeconfig.cache
 C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\ref\cSharpBasics.dll
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.sourcelink.json
