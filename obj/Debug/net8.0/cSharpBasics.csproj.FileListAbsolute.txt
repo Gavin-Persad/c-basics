@@ -1,0 +1,14 @@
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\bin\Debug\net8.0\cSharpBasics.exe
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\bin\Debug\net8.0\cSharpBasics.deps.json
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\bin\Debug\net8.0\cSharpBasics.runtimeconfig.json
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\bin\Debug\net8.0\cSharpBasics.dll
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\bin\Debug\net8.0\cSharpBasics.pdb
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.AssemblyInfoInputs.cache
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.AssemblyInfo.cs
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.dll
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\refint\cSharpBasics.dll
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.pdb
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\cSharpBasics.genruntimeconfig.cache
+C:\Users\gavin\Documents\Repositories\c#Learning\cSharpBasics\obj\Debug\net8.0\ref\cSharpBasics.dll
